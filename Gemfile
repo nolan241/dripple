@@ -17,6 +17,7 @@ gem 'paperclip', '~> 4.3', '>= 4.3.6'
 
 group :development, :test do
   gem 'byebug'
+  gem 'meta_request'
 end
 
 group :development do
